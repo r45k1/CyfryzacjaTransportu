@@ -17,7 +17,8 @@ The system allows user registration, role management, and tracking of trucking o
 - assigning orders to drivers
 
 ## Screenshots
-
+### App Welcome
+![App](img/screen-mobile.png)
 ### Dashboard  
 ![Dashboard](img/screen-cf1.png)
 
