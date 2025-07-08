@@ -1,6 +1,7 @@
 
 # Cyfryzacja Transportu - Truck Company Admin/User System
 ![Logo](img/logo.png)
+
 A web-based system designed to manage admins and users for a trucking company.  
 The system allows user registration, role management, and tracking of trucking operations.
 
