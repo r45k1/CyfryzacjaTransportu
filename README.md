@@ -21,7 +21,7 @@ The system allows user registration, role management, and tracking of trucking o
 ![App](img/screen-mobile.png)
 ### Dashboard  
 ![Dashboard](img/screen-cf1.png)
-
+![Dashboard](img/screen-cf3.png)
 ### Dashborad menagment 
 ![Dashboard menagment](img/screen-cf2.png)
 
